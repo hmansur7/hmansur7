@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React js, Typescript and Tailwind CSS for a new project I have in mind.**
 
-- 💬 Ask me about **any interesting topic about the world of technology and programming, If I dont have the answer I will google it for hours until I can learn!**
+- 💬 Ask me **any interesting topic about the world of technology and programming, If I dont have the answer I will google it for hours until I can learn!**
 
 - 📫 You can reach me via email at **haarishmansur7@gmail.com**
 
