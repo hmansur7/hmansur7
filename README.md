@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Haarish Mansur</h1>
 <h3 align="center">An aspiring developer curious about the wonders of technology!</h3>
 
-- 🌱 I’m currently learning **React js and Typescript for a new project I have in mind.**
+- 🌱 I’m currently learning **React js, Typescript and Tailwind CSS for a new project I have in mind.**
 
 - 💬 Ask me about **any interesting topic about the world of technology and programming, If I dont have the answer I will google it for hours until I can learn!**
 
