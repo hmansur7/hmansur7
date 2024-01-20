@@ -7,7 +7,7 @@
 
 - 📫 You can reach me via email at **haarishmansur7@gmail.com**
 
-- ⚡ Fun fact **I'm from Canada and I do not like Canadian Winters!**
+- ⚡ Fun fact **I live in Canada and I do not like Canadian Winters!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
