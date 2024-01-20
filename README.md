@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Haarish Mansur</h1>
 <h3 align="center">An aspiring developer curious about the wonders of technology!</h3>
 
-- 🌱 I’m currently learning **React js, Typescript and Tailwind CSS for a new project I have in mind.**
+- 🌱 I’m currently learning **React js, Typescript, and Tailwind CSS for a new project I have in mind.**
 
-- 💬 Ask me **any interesting topic about the world of technology and programming, If I dont have the answer I will google it for hours until I can learn!**
+- 💬 Ask me **any interesting topic about the world of technology and programming, If I don't have the answer I will google it for hours until I can learn!**
 
 - 📫 You can reach me via email at **haarishmansur7@gmail.com**
 
-- ⚡ Fun fact **Im from Canada and I do not like the Canadian Winters!**
+- ⚡ Fun fact **I'm from Canada and I do not like Canadian Winters!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
