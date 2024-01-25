@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Haarish Mansur</h1>
-<h3 align="center">An aspiring developer curious about the wonders of technology!</h3>
+<h3 align="center">An aspiring developer.</h3>
 
-- 🌱 I’m currently learning **React js, Typescript, and Tailwind CSS for a new project I have in mind.**
-
-- 💬 Ask me **any interesting topic about the world of technology and programming, If I don't have the answer I will google it for hours until I can learn!**
+- 🌱 I’m currently learning **how to create a web app using Django and Python**
 
 - 📫 You can reach me via email at **haarishmansur7@gmail.com**
-
-- ⚡ Fun fact **I'm a total cat person!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
