@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Haarish Mansur</h1>
 <h3 align="center">An aspiring developer.</h3>
 
-- 🌱 I’m currently learning **how to create a web app using Django and Python**
-
 - 📫 You can reach me via email at **haarishmansur7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
