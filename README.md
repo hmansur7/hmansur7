@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammad Haarish Mansur</h1>
-<h3 align="center">An aspiring developer.</h3>
 
 - 📫 You can reach me via email at **haarishmansur7@gmail.com**
 
