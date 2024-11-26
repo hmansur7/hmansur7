@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own version control and workflow management app CodeFlow.io <br>🌱 I’m currently learning TypeScript, React.js, PostgreSQL, Node.js and Express.js<br>
+🔭 I’m currently taking a step away from web development and focusing on studying artifical intellegence <br>🌱 I’m currently learning LLM development and training in Python<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmansur) 
