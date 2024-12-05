@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently taking a step away from web development and focusing on studying artifical intellegence <br>🌱 I’m currently learning LLM development and training in Python<br>
+🔭 I’m currently working on developing a mobile application that uses an ML model <br>🌱 I’m learning Swift so that I can add IOS app development to my resume!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmansur) 
